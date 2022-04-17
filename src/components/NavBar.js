@@ -1,4 +1,4 @@
-import Navbar from 'react-bootstrap/Navbar'
+import Navbar from 'react-bootstrap/NavBar'
 import Nav from 'react-bootstrap/Nav'
 import Container from 'react-bootstrap/Container'
 import NavDropdown from 'react-bootstrap/NavDropdown'
@@ -6,7 +6,7 @@ import NavDropdown from 'react-bootstrap/NavDropdown'
 const NavBar = () => {
   return (
     <div>
-      <Navbar bg="light" expand="lg">
+      <Navbar expand="lg" style={{ backgroundColor: "#ACEDFF" }}>
         <Container>
           <Navbar.Brand href="#home">Welcome!</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />

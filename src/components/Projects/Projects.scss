@@ -1,8 +1,7 @@
-.image {
-    background-image: url("../../assets/Waterfall.jpg");
-    height: 250px;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
+
+.image-size {
+  height: auto;
+  max-height: 250px;
+  width: auto;
+  max-width: 250px;
 }
