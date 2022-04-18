@@ -3,10 +3,10 @@ import Col from "react-bootstrap/Col";
 
 const AboutMe = () => {
   return (
-    <div style={{ backgroundColor: "#89BBFE" }}>
+    <div style={{ backgroundColor: "#615D6C" }}>
 
         <Col>
-          <h3 style={{ textAlign: "center" }}>About Me</h3>
+          <h3 style={{ textAlign: "center", color: "#ACEDFF" }}>About Me</h3>
 
           <p className="text-center text">
             Hello! I am Kurtis Doute. I moved from Taylor, Michigan to Kirkland,

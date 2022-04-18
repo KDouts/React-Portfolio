@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import NavBar from './components/NavBar';
 import AboutMe from './components/AboutMe/AboutMe';
 import Projects from './components/Projects/Projects';
-import Contact from './components/Contact';
+import Contact from './components/Contact/Contact';
 import Profile from './components/Profile/Profile';
 
 function App() {
