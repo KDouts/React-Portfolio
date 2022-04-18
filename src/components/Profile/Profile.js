@@ -9,11 +9,11 @@ const Profile = () => {
       <div>
         <Row>
           <Col>
-            <Image src={ProfilePic} roundedCircle className="Profile-Image" />
+            <Image src={ProfilePic} roundedCircle className="Profile-Image" style={{ margin: '30px' }}/>
           </Col>
   
           <Col>
-            <h2 style={{ textAlign: "center" }}>Kurtis Doute</h2>
+            <h2 style={{ textAlign: "center", padding: '20px' }}>Kurtis Doute</h2>
             <h3 style={{ textAlign: "center" }}>Full Stack Web Developer</h3>
           </Col>
         </Row>
