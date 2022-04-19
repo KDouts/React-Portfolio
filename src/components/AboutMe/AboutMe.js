@@ -3,7 +3,7 @@ import Col from "react-bootstrap/Col";
 
 const AboutMe = () => {
   return (
-    <div
+    <div id="About-Me"
       style={{
         backgroundColor: "#615D6C",
         borderRadius: "5px",

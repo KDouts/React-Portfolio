@@ -8,7 +8,7 @@ import { Carousel, Container, Image } from "react-bootstrap";
 
 const Projects = () => {
   return (
-    <div>
+    <div id="Projects">
       <h3 style={{ textAlign: "center" }}>Projects</h3>
 
       <Container className="carousel-size">

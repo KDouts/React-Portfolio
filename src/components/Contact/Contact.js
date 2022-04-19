@@ -5,7 +5,7 @@ import { IoDocumentText } from "react-icons/io5";
 
 const Contact = () => {
   return (
-    <div style={{ textAlign: "center" }}>
+    <div style={{ textAlign: "center" }} id="Contact">
       <a href="https://github.com/KDouts">
         <GoMarkGithub className="sizes"></GoMarkGithub>
       </a>
