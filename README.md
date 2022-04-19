@@ -22,9 +22,9 @@ Access application through the deployment link.
 # App Screenshot
 
 Screenshot
-![Screenshot](./src/assets/Portfolio1.png)
+![Screenshot](./src/assets/Portfolio1-2.png)
 ![Screenshot](./src/assets/Portfolio2.png)
-![Screenshot](./src/assets/Portfolio3.png)
+![Screenshot](./src/assets/Portfolio3-2.png)
 
 # Deployed Link
 [Deployed Page Link]()
