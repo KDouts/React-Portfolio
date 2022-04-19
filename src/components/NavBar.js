@@ -1,4 +1,4 @@
-import Navbar from 'react-bootstrap/NavBar'
+import Navbar from 'react-bootstrap/Navbar'
 import Nav from 'react-bootstrap/Nav'
 import Container from 'react-bootstrap/Container'
 import { BsTelephoneFill } from "react-icons/bs";
