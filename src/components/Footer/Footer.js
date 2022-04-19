@@ -5,7 +5,7 @@ import { IoDocumentText } from "react-icons/io5";
 
 const Footer = () => {
   return (
-    <div style={{ textAlign: "center", backgroundColor: "#ACEDFF" }} id="Contact">
+    <div style={{ textAlign: "center", backgroundColor: "#615D6C" }} id="Contact">
       <a href="https://github.com/KDouts">
         <GoMarkGithub className="sizes"></GoMarkGithub>
       </a>
