@@ -4,6 +4,7 @@ import Tech from "../../assets/tech.jpg";
 import Weather from "../../assets/rain.jpg";
 import Quiz from "../../assets/KingdonHearts.jpg";
 import GameRec from "../../assets/game-rec.png";
+import Finance from "../../assets/finances.jpg"
 import { Carousel, Container, Image } from "react-bootstrap";
 
 const Projects = () => {
@@ -30,8 +31,22 @@ const Projects = () => {
           <Carousel.Item>
             <Image
               className="flex w-100 image-size"
+              src={Finance}
+              alt="Second Slide"
+              rounded
+            />
+            <Carousel.Caption>
+              <a href="https://github.com/NateWalchenbach/finance-tracker">
+                <h3>Backpocket</h3>
+              </a>
+            </Carousel.Caption>
+          </Carousel.Item>
+
+          <Carousel.Item>
+            <Image
+              className="flex w-100 image-size"
               src={Trails}
-              alt="First slide"
+              alt="Third slide"
               rounded
             />
             <Carousel.Caption>
@@ -44,7 +59,7 @@ const Projects = () => {
             <Image
               className="flex w-100 image-size"
               src={Quiz}
-              alt="Second slide"
+              alt="Fourth slide"
               rounded
             />
 
@@ -58,7 +73,7 @@ const Projects = () => {
             <Image
               className="flex w-100 image-size"
               src={Tech}
-              alt="Third slide"
+              alt="Fifth slide"
               rounded
             />
 
@@ -73,7 +88,7 @@ const Projects = () => {
             <Image
               className="flex w-100 image-size"
               src={Weather}
-              alt="Third slide"
+              alt="Sixth slide"
               rounded
             />
 
