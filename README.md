@@ -27,4 +27,4 @@ Screenshot
 ![Screenshot](./src/assets/Portfolio3-2.png)
 
 # Deployed Link
-[Deployed Page Link]()
+[Deployed Page Link](kdouts.github.io/react-portfolio)
