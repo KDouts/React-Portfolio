@@ -1,10 +1,10 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import NavBar from './components/NavBar';
-import AboutMe from './components/AboutMe/AboutMe';
-import Projects from './components/Projects/Projects';
-import Contact from './components/Contact/Contact';
-import Profile from './components/Profile/Profile';
-import Footer from './components/Footer/Footer'
+import NavBar from './components/NavBar.js';
+import AboutMe from './components/AboutMe/AboutMe.js';
+import Projects from './components/Projects/Projects.js';
+import Contact from './components/Contact/Contact.js';
+import Profile from './components/Profile/Profile.js';
+import Footer from './components/Footer/Footer.js';
 
 function App() {
   return (
