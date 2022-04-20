@@ -22,7 +22,7 @@ const Projects = () => {
               rounded
             />
             <Carousel.Caption>
-              <a href="https://jonathan6.github.io/Trail-Buddy/">
+              <a href="https://gamrec-project.herokuapp.com/" target="_blank">
                 <h3>Game Rec</h3>
               </a>
             </Carousel.Caption>
@@ -36,7 +36,7 @@ const Projects = () => {
               rounded
             />
             <Carousel.Caption>
-              <a href="https://github.com/NateWalchenbach/finance-tracker">
+              <a href="https://github.com/NateWalchenbach/finance-tracker" target="_blank">
                 <h3>Backpocket</h3>
               </a>
             </Carousel.Caption>
@@ -50,7 +50,7 @@ const Projects = () => {
               rounded
             />
             <Carousel.Caption>
-              <a href="https://jonathan6.github.io/Trail-Buddy/">
+              <a href="https://jonathan6.github.io/Trail-Buddy/" target="_blank">
                 <h3>Trail Buddy</h3>
               </a>
             </Carousel.Caption>
@@ -64,7 +64,7 @@ const Projects = () => {
             />
 
             <Carousel.Caption>
-              <a href="https://kdouts.github.io/code-quiz/">
+              <a href="https://kdouts.github.io/code-quiz/" target="_blank">
                 <h3>Kingdom Hearts Quiz</h3>
               </a>
             </Carousel.Caption>
@@ -78,7 +78,7 @@ const Projects = () => {
             />
 
             <Carousel.Caption>
-              <a href="https://github.com/KDouts/Cool-Tech-Blog">
+              <a href="https://github.com/KDouts/Cool-Tech-Blog" target="_blank">
                 <h3>Tech Blog</h3>
               </a>
             </Carousel.Caption>
@@ -93,7 +93,7 @@ const Projects = () => {
             />
 
             <Carousel.Caption>
-              <a href="https://kdouts.github.io/weather-API/">
+              <a href="https://kdouts.github.io/weather-API/" target="_blank">
                 <h3>Weather Dashboard</h3>
               </a>
             </Carousel.Caption>
