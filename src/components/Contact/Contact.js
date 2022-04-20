@@ -34,6 +34,8 @@ const Contact = () => {
     if (!name) return setErrorMessage("Please enter your name");
     if (!message) return setErrorMessage("Please enter a message");
 
+    window.open('mailto:hunterw.dstest@gmail.com?subject=subject&body=body');
+
     setResponseMessage("Thank you for reaching out, I will be in touch.");
 
     setName("");
