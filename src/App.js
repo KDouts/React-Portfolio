@@ -5,6 +5,7 @@ import Projects from './components/Projects/Projects.js';
 import Contact from './components/Contact/Contact.js';
 import Profile from './components/Profile/Profile.js';
 import Footer from './components/Footer/Footer.js';
+import Rest from './components/Rest.js';
 
 function App() {
   return (
