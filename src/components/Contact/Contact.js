@@ -1,9 +1,8 @@
-import React, { useRef } from "react";
-import { validateEmail } from "../../utils/helpers";
+import React, { useState } from "react";
 import emailjs from "emailjs-com";
 
 const Contact = () => {
-  const form = useRef();
+  const form = useState();
 
   const sendEmail = (e) => {
     e.preventDefault();
