@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import emailjs from "emailjs-com";
-import Row from "react-bootstrap/Row";
 
 const Contact = () => {
   const form = useState();
@@ -35,10 +34,10 @@ const Contact = () => {
         <div className="container" style={{ textAlign: "center" }}>
           <div>
             <form ref={form} onSubmit={sendEmail} style={{  }}>
-              <input type="text" name="user_name" value="Name" style={{ width: "100%", margin: "10px" }}/>
-              <input type="email" name="user_email" value="Email" style={{ width: "100%", margin: "10px" }}/>
-              <textarea name="message" value="Message" style={{ width: "100%", margin: "10px" }}/>
-              <input type="submit" value="Send" />
+              <input type="text" name="user_name" placeholder="Name" style={{ width: "100%", margin: "10px" }}/>
+              <input type="email" name="user_email" placeholder="Email" style={{ width: "100%", margin: "10px" }}/>
+              <textarea name="message" placeholder="Message" style={{ width: "100%", margin: "10px" }}/>
+              <input type="submit" value="Send" style={{ float: "right" }}/>
             </form>
           </div>
         </div>
