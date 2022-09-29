@@ -8,7 +8,7 @@ const NavBar = () => {
     <div>
       <Navbar expand="lg" style={{ backgroundColor: "#ACEDFF" }}>
         <Container>
-          <Navbar>Welcome!</Navbar>
+          <Navbar><h2>Kurtis Doute</h2></Navbar>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto"></Nav>

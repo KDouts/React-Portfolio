@@ -14,12 +14,6 @@ function App() {
 
       <Profile />
 
-      <AboutMe />
-
-      <Projects />
-
-      <Contact />
-
       <Footer />
 
     </div>

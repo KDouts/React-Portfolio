@@ -25,9 +25,9 @@ const AboutMe = () => {
         </p>
 
         <p className="text-center text">
-          I am currently enrolled in the Full Stack Web Development Bootcamp at
-          the University of Washington in hopes to find my way to working in the
-          tech field. Going into the program I did not know about all of the
+          I have graduated and recieved my certificate in Full Stack Web Development Bootcamp from
+          the University of Washington actively looking to find my way in the
+          tech field as a software developer. Going into the program I did not know about all of the
           different technologies that were essential to creating and maintaining
           a web application such as: JavaScript, MySQL, MongoDB, React, etc...
         </p>
