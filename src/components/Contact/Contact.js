@@ -1,12 +1,14 @@
-import React, { useState } from "react";
+import React, { useState, setState } from "react";
 import emailjs from "emailjs-com";
 
 const Contact = () => {
+  
   const form = useState();
-
+  
   const sendEmail = (e) => {
+    console.log(form)
     e.preventDefault();
-
+    
     emailjs
       .sendForm(
         "service_rvts4kc",
@@ -17,11 +19,13 @@ const Contact = () => {
       .then(
         (result) => {
           console.log(result.text);
+
+          form.current.reset();
         },
         (error) => {
           console.log(error.text);
         }
-      );
+        );
   };
 
   return (

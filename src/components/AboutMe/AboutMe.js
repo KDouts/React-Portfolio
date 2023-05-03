@@ -16,7 +16,7 @@ const AboutMe = () => {
         <h3 style={{ textAlign: "center", color: "#ACEDFF" }}>About Me</h3>
 
         <p className="text-center text">
-          Hello! I am Kurtis Doute. I moved from Taylor, Michigan to Kirkland,
+          Hello! My name is Kurtis Doute. I moved from Taylor, Michigan to Kirkland,
           Washington in 2018 to work at Cinemark Theaters as a Theater
           Technology Assistant. Since then I have been a student in studying
           English at Grand Canyon University. During school I completed my
