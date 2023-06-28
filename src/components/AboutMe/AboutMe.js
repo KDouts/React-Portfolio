@@ -16,28 +16,13 @@ const AboutMe = () => {
         <h3 style={{ textAlign: "center", color: "#ACEDFF" }}>About Me</h3>
 
         <p className="text-center text">
-          Hello! My name is Kurtis Doute. I moved from Taylor, Michigan to Kirkland,
-          Washington in 2018 to work at Cinemark Theaters as a Theater
-          Technology Assistant. Since then I have been a student in studying
-          English at Grand Canyon University. During school I completed my
-          CompTIA A+ certificate and decided that I wanted to pursue a career in
-          the tech field.
+          Hello! My name is Kurtis Doute. I am a graduate of the Full Stack Web Development program at the University of Washington. During my schooling I completed my CompTIA A+ certification and decided to pursue a career in software. I am actively looking for a position in software developement or support engineering.
         </p>
 
         <p className="text-center text">
-          I have graduated and recieved my certificate in Full Stack Web Development Bootcamp from
-          the University of Washington actively looking to find my way in the
-          tech field as a software developer. Going into the program I did not know about all of the
-          different technologies that were essential to creating and maintaining
-          a web application such as: JavaScript, MySQL, MongoDB, React, etc...
+          I have aquired the skills to create and maintain web applications such as: JavaScript, MySQL, MongoDB, React, etc...
         </p>
 
-        <p className="text-center text">
-          In my personal life I love to play music! I was a percussionist in
-          high school and took on projects to learn other instruments like the
-          trumpet, guitar, violin, and saxophone. Otherwise I like to play video
-          games and hike with my roommates.
-        </p>
       </Col>
     </div>
   );
